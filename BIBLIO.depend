@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1718453625 source:c:\users\gael nsabua\documents\c program\biblio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
