@@ -1,1 +1,7 @@
 1,ETUDE,ANTOINE,2004,0
+1,vie,john,2001,1
+1,vie,chris,2001,1
+1,vie,john,1900,1
+1,vie,chris,1900,1
+1,le_petit_prince,chris_ngoy,1800,1
+7148512,ER,CHTOT,56594,1
